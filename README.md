@@ -4,7 +4,7 @@
 
 - O dono de todos os diretórios criados será o usuário root;
 - Todos os usuários terão permissão total dentro do diretório público;
-- Os usuários de cada grupo terão permissãp total dentro de seu respectivo diretório;
+- Os usuários de cada grupo terão permissão total dentro de seu respectivo diretório;
 - Os usuários não poderão ter permissão de leitura, escrita e execução em diretórios de departamentos em que eles não pertencem.
 
 ### Esse é o script que fiz:
